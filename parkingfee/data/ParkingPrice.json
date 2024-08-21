@@ -1,0 +1,100 @@
+{
+  "Sunday": {
+    "08:00-16:59": {
+      "max_stay_hours": 8,
+      "price_per_hour": 2
+    },
+    "17:00-Midnight": {
+      "max_stay_hours": "Up to midnight",
+      "price_per_hour": 5
+    },
+    "Midnight-07:59": {
+      "max_stay_hours": null,
+      "price_one_time": 20
+    }
+  },
+  "Monday": {
+    "08:00-16:59": {
+      "max_stay_hours": 2,
+      "price_per_hour": 10
+    },
+    "17:00-Midnight": {
+      "max_stay_hours": "Up to midnight",
+      "price_per_hour": 5
+    },
+    "Midnight-07:59": {
+      "max_stay_hours": null,
+      "price_one_time": 20
+    }
+  },
+  "Tuesday": {
+    "08:00-16:59": {
+      "max_stay_hours": 2,
+      "price_per_hour": 10
+    },
+    "17:00-Midnight": {
+      "max_stay_hours": "Up to midnight",
+      "price_per_hour": 5
+    },
+    "Midnight-07:59": {
+      "max_stay_hours": null,
+      "price_one_time": 20
+    }
+  },
+  "Wednesday": {
+    "08:00-16:59": {
+      "max_stay_hours": 2,
+      "price_per_hour": 10
+    },
+    "17:00-Midnight": {
+      "max_stay_hours": "Up to midnight",
+      "price_per_hour": 5
+    },
+    "Midnight-07:59": {
+      "max_stay_hours": null,
+      "price_one_time": 20
+    }
+  },
+  "Thursday": {
+    "08:00-16:59": {
+      "max_stay_hours": 2,
+      "price_per_hour": 10
+    },
+    "17:00-Midnight": {
+      "max_stay_hours": "Up to midnight",
+      "price_per_hour": 5
+    },
+    "Midnight-07:59": {
+      "max_stay_hours": null,
+      "price_one_time": 20
+    }
+  },
+  "Friday": {
+    "08:00-16:59": {
+      "max_stay_hours": 2,
+      "price_per_hour": 10
+    },
+    "17:00-Midnight": {
+      "max_stay_hours": "Up to midnight",
+      "price_per_hour": 5
+    },
+    "Midnight-07:59": {
+      "max_stay_hours": null,
+      "price_one_time": 20
+    }
+  },
+  "Saturday": {
+    "08:00-16:59": {
+      "max_stay_hours": 4,
+      "price_per_hour": 3
+    },
+    "17:00-Midnight": {
+      "max_stay_hours": "Up to midnight",
+      "price_per_hour": 5
+    },
+    "Midnight-07:59": {
+      "max_stay_hours": null,
+      "price_one_time": 20
+    }
+  }
+}

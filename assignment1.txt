@@ -1,0 +1,10 @@
+Development Guidelines
+Using FastAPI - Uvicorn - SQL Alchemy - Alembic for this assignment.
+Using PostgreSQL for DB Storage 
+You are free to add more features to the application to express your understanding of the problem and/or framework 
+
+Evaluation Criteria 
+Understanding of the FastAPI component
+The project structure 
+Apply: Validation, Model, Query, Routing, Authorizer
+API route design
